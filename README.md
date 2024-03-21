@@ -11,7 +11,7 @@ Running The App
 python main.py
 
 To get admin page which cosists of list of users and also has delete users option login as:
-email = admin@gmail.com
+email = admin@gmail.com /
 password = admin
 
 Viewing The App
